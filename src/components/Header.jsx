@@ -17,7 +17,7 @@ const Header = ({
             style={{ textAlign: 'center', marginTop: 50 }}
         >
             <Image
-                src="/assets/logo.svg"
+                src="/assets/logo.png"
                 alt="Open Source RPG"
                 width="150"
                 height="55"
